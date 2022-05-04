@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xml:base="http://www.gutenberg.org/"
+  xmlns:cc="http://web.resource.org/cc/"
+  xmlns:dcam="http://purl.org/dc/dcam/"
+  xmlns:dcterms="http://purl.org/dc/terms/"
+  xmlns:pgterms="http://www.gutenberg.org/2009/pgterms/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:marcrel="http://id.loc.gov/vocabulary/relators/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <pgterms:ebook rdf:about="ebooks/67909">
+    <dcterms:license rdf:resource="license"/>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/ebooks/67909.rdf">
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6822</dcterms:extent>
+        <dcterms:isFormatOf rdf:resource="ebooks/67909"/>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-04-23T11:00:40.552214</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N65cba21b2b5142f1a756905949da84cd">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/rdf+xml</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:subject>
+      <rdf:Description rdf:nodeID="N4ef77dffbe59496592397308a7b1c8a8">
+        <rdf:value>PH</rdf:value>
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCC"/>
+      </rdf:Description>
+    </dcterms:subject>
+    <dcterms:publisher>Project Gutenberg</dcterms:publisher>
+    <dcterms:title>Carmela</dcterms:title>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/cache/epub/67909/pg67909.cover.medium.jpg">
+        <dcterms:isFormatOf rdf:resource="ebooks/67909"/>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-04-23T11:00:36.348181</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Nb0574b315edf4f28a6ed20f1341cdf4b">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">image/jpeg</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">19735</dcterms:extent>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <pgterms:marc260>Hungary :Franklin,1906.</pgterms:marc260>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/ebooks/67909.epub.noimages">
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">315771</dcterms:extent>
+        <dcterms:isFormatOf rdf:resource="ebooks/67909"/>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N3655a1cd4cfc472198d1d2ac138af930">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/epub+zip</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-04-23T11:00:34.719176</dcterms:modified>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/files/67909/67909-0.txt">
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-04-23T10:10:38</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N198372b2739e46ceba803067791038fb">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain; charset=us-ascii</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:isFormatOf rdf:resource="ebooks/67909"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">502281</dcterms:extent>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/cache/epub/67909/pg67909.cover.small.jpg">
+        <dcterms:isFormatOf rdf:resource="ebooks/67909"/>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-04-23T11:00:36.273184</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N5840785feefe4b8bab53ab034755c73e">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">image/jpeg</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2567</dcterms:extent>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:subject>
+      <rdf:Description rdf:nodeID="Nc64c7bc29056479d9f20ca386ac4f9b9">
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCSH"/>
+        <rdf:value>Hungarian fiction -- 19th century</rdf:value>
+      </rdf:Description>
+    </dcterms:subject>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/files/67909/67909-0.zip">
+        <dcterms:isFormatOf rdf:resource="ebooks/67909"/>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-04-23T10:10:57</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Na98451f91f3841d19a28d50001f18d4e">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/zip</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Naee43ba25f7340d1bc9139ef3246d119">
+            <rdf:value>application/octet-stream</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">202165</dcterms:extent>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <pgterms:marc906>1906</pgterms:marc906>
+    <marcrel:ill>
+      <pgterms:agent rdf:about="2009/agents/54527">
+        <pgterms:deathdate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1915</pgterms:deathdate>
+        <pgterms:birthdate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1871</pgterms:birthdate>
+        <pgterms:name>Hirsch, Nelli</pgterms:name>
+        <pgterms:webpage rdf:resource="https://hu.wikipedia.org/wiki/Rad%C3%B3n%C3%A9_Hirsch_Nelly"/>
+      </pgterms:agent>
+    </marcrel:ill>
+    <pgterms:marc907>hu</pgterms:marc907>
+    <dcterms:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-23</dcterms:issued>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/ebooks/67909.html.images">
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-04-23T11:00:33.669173</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N8ce7a2a05ce74b64bc12ad3de6b68063">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/html</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">547757</dcterms:extent>
+        <dcterms:isFormatOf rdf:resource="ebooks/67909"/>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/ebooks/67909.txt.utf-8">
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N9bf11a3fe8484729aa07a9a2ff3ff2ca">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">502281</dcterms:extent>
+        <dcterms:isFormatOf rdf:resource="ebooks/67909"/>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-04-23T11:00:33.114184</dcterms:modified>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <pgterms:marc905>20220410043502dczi</pgterms:marc905>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/ebooks/67909.kindle.noimages">
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Nb14de774fb534bb18077a36e138d78ed">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/x-mobipocket-ebook</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1127765</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-04-23T11:00:36.190202</dcterms:modified>
+        <dcterms:isFormatOf rdf:resource="ebooks/67909"/>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:rights>Public domain in the USA.</dcterms:rights>
+    <dcterms:language>
+      <rdf:Description rdf:nodeID="N2044cdd1fabc45489f332e8871eb9890">
+        <rdf:value rdf:datatype="http://purl.org/dc/terms/RFC4646">hu</rdf:value>
+      </rdf:Description>
+    </dcterms:language>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/files/67909/67909-h/67909-h.htm">
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N9182ecdfc43e41e2b3a0bf106a919c76">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/html</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:isFormatOf rdf:resource="ebooks/67909"/>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-04-23T10:10:38</dcterms:modified>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">559312</dcterms:extent>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/ebooks/67909.kindle.images">
+        <dcterms:isFormatOf rdf:resource="ebooks/67909"/>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N53fdbba425b0431480d8e7fcbdfa528a">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/x-mobipocket-ebook</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-04-23T11:00:40.392242</dcterms:modified>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6771003</dcterms:extent>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <pgterms:marc508>Albert László from page images generously made available by the Internet Archive</pgterms:marc508>
+    <pgterms:downloads rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">268</pgterms:downloads>
+    <dcterms:creator>
+      <pgterms:agent rdf:about="2009/agents/54526">
+        <pgterms:birthdate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1845</pgterms:birthdate>
+        <pgterms:alias>Dóczi, Ludwig</pgterms:alias>
+        <pgterms:name>Dóczi, Lajos</pgterms:name>
+        <pgterms:deathdate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1919</pgterms:deathdate>
+        <pgterms:alias>Doczi, Lajos</pgterms:alias>
+        <pgterms:webpage rdf:resource="https://hu.wikipedia.org/wiki/D%C3%B3czy_Lajos"/>
+        <pgterms:webpage rdf:resource="https://en.wikipedia.org/wiki/Lajos_D%C3%B3czi"/>
+      </pgterms:agent>
+    </dcterms:creator>
+    <dcterms:subject>
+      <rdf:Description rdf:nodeID="N36981f59e34544c98e79dcbc66d83538">
+        <rdf:value>Short stories, Hungarian</rdf:value>
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCSH"/>
+      </rdf:Description>
+    </dcterms:subject>
+    <marcrel:ctb>
+      <pgterms:agent rdf:about="2009/agents/26008">
+        <pgterms:webpage rdf:resource="https://hu.wikipedia.org/wiki/Mikszáth_Kálmán_(író)"/>
+        <pgterms:alias>Mikszath, Kalman</pgterms:alias>
+        <pgterms:birthdate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1847</pgterms:birthdate>
+        <pgterms:webpage rdf:resource="https://en.wikipedia.org/wiki/K%C3%A1lm%C3%A1n_Miksz%C3%A1th"/>
+        <pgterms:deathdate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1910</pgterms:deathdate>
+        <pgterms:alias>Kálmán Mikszáth</pgterms:alias>
+        <pgterms:name>Mikszáth, Kálmán</pgterms:name>
+      </pgterms:agent>
+    </marcrel:ctb>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/files/67909/67909-h.zip">
+        <dcterms:isFormatOf rdf:resource="ebooks/67909"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2531846</dcterms:extent>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N16b7e990faf1437da8271909882bb160">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/zip</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N9264a1f1d0ec4cd38ba471de2bfd1c1c">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value>application/octet-stream</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-04-23T10:10:57</dcterms:modified>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:tableOfContents>Dóczi Lajos / Mikszáth Kálmán -- Carmela -- Kis Murányvár -- Mennyi? -- Fifine bosszúja -- Saeckerhets-Taendstickor -- Egy vegyes házasság -- A gróf szava.</dcterms:tableOfContents>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/ebooks/67909.epub.images">
+        <dcterms:isFormatOf rdf:resource="ebooks/67909"/>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-04-23T11:00:37.373198</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Nd25fb78aadc04be38d2e8a4dd0f760b4">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/epub+zip</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2755055</dcterms:extent>
+      </pgterms:file>
+    </dcterms:hasFormat>
+  </pgterms:ebook>
+  <cc:Work rdf:about="">
+    <cc:license rdf:resource="https://creativecommons.org/publicdomain/zero/1.0/"/>
+    <rdfs:comment>Archives containing the RDF files for *all* our books can be downloaded at
+            https://www.gutenberg.org/wiki/Gutenberg:Feeds#The_Complete_Project_Gutenberg_Catalog</rdfs:comment>
+  </cc:Work>
+  <rdf:Description rdf:about="https://hu.wikipedia.org/wiki/Mikszáth_Kálmán_(író)">
+    <dcterms:description>hu.wikipedia</dcterms:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://hu.wikipedia.org/wiki/D%C3%B3czy_Lajos">
+    <dcterms:description>hu.wikipedia</dcterms:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://en.wikipedia.org/wiki/Lajos_D%C3%B3czi">
+    <dcterms:description>en.wikipedia</dcterms:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://en.wikipedia.org/wiki/K%C3%A1lm%C3%A1n_Miksz%C3%A1th">
+    <dcterms:description>en.wikipedia</dcterms:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://hu.wikipedia.org/wiki/Rad%C3%B3n%C3%A9_Hirsch_Nelly">
+    <dcterms:description>hu.wikipedia</dcterms:description>
+  </rdf:Description>
+</rdf:RDF>

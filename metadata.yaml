@@ -1,0 +1,59 @@
+_repo: Carmela_67909
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Mikszáth, Kálmán
+    aliases:
+    - Mikszath, Kalman
+    - Kálmán Mikszáth
+    birthdate: 1847
+    deathdate: 1910
+    gutenberg_agent_id: '26008'
+    url: http://www.gutenberg.org/2009/agents/26008
+    wikipedia:
+    - https://hu.wikipedia.org/wiki/Mikszáth_Kálmán_(író)
+    - https://en.wikipedia.org/wiki/K%C3%A1lm%C3%A1n_Miksz%C3%A1th
+  illustrator:
+    agent_name: Hirsch, Nelli
+    birthdate: 1871
+    deathdate: 1915
+    gutenberg_agent_id: '54527'
+    url: http://www.gutenberg.org/2009/agents/54527
+    wikipedia: https://hu.wikipedia.org/wiki/Rad%C3%B3n%C3%A9_Hirsch_Nelly
+creator:
+  author:
+    agent_name: Dóczi, Lajos
+    aliases:
+    - Dóczi, Ludwig
+    - Doczi, Lajos
+    birthdate: 1845
+    deathdate: 1919
+    gutenberg_agent_id: '54526'
+    url: http://www.gutenberg.org/2009/agents/54526
+    wikipedia:
+    - https://hu.wikipedia.org/wiki/D%C3%B3czy_Lajos
+    - https://en.wikipedia.org/wiki/Lajos_D%C3%B3czi
+description: ''
+gutenberg_issued: '2022-04-23'
+identifiers:
+  gutenberg: '67909'
+language: hu
+pgterms:marc905: 20220410043502dczi
+pgterms:marc906: '1906'
+pgterms:marc907: hu
+production_note: Albert László from page images generously made available by the Internet
+  Archive
+publication_note: Hungary :Franklin,1906.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PH'
+- !lcsh 'Hungarian fiction -- 19th century'
+- !lcsh 'Short stories, Hungarian'
+- GITenberg
+tableOfContents: Dóczi Lajos / Mikszáth Kálmán -- Carmela -- Kis Murányvár -- Mennyi?
+  -- Fifine bosszúja -- Saeckerhets-Taendstickor -- Egy vegyes házasság -- A gróf
+  szava.
+title: Carmela
+url: http://www.gutenberg.org/ebooks/67909
