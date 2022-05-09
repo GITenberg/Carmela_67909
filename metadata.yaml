@@ -20,6 +20,9 @@ contributor:
     gutenberg_agent_id: '54527'
     url: http://www.gutenberg.org/2009/agents/54527
     wikipedia: https://hu.wikipedia.org/wiki/Rad%C3%B3n%C3%A9_Hirsch_Nelly
+covers:
+- cover_type: archival
+  image_path: 67909-h/images/cover.jpg
 creator:
   author:
     agent_name: Dóczi, Lajos
@@ -34,6 +37,8 @@ creator:
     - https://hu.wikipedia.org/wiki/D%C3%B3czy_Lajos
     - https://en.wikipedia.org/wiki/Lajos_D%C3%B3czi
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67909#Carmela
 gutenberg_issued: '2022-04-23'
 identifiers:
   gutenberg: '67909'
